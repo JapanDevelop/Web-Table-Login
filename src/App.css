@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-image: url('./Image/bg1.jpg');
+  position: fixed;
+  min-height: 100%;
+  min-width: 100%;
+  background-size: cover;
+  background-position:center;
+}
+
+
+
+
+

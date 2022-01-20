@@ -1,0 +1,21 @@
+table, th, td {
+    border: 2px solid black;
+
+    border-collapse: collapse;
+}
+
+.app-container{
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   padding: 1rem;
+}
+
+input, select{
+    margin-right: 10px;
+}
+
+.ButtonSty{
+    width: 250px;
+    color:  white;
+}
